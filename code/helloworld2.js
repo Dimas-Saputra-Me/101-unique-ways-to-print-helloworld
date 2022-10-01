@@ -7,7 +7,7 @@ function print(){
 
     // console.log(textValidation.length)
     let tmp = "";
-    for(let i=0; i<=11; i++){
+    for(let i=0; i<=textValidation.length; i++){
         
         while(tmp[i] != textValidation[i]){
             text[i]++; tmp = "";
