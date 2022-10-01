@@ -1,4 +1,7 @@
-## CONTRIBUTE
+# CONTRIBUTE
+Guidelines
+
+## Step-By-Step
 1. Make your own way to print "Hello World!" with the template shown in [template.js](https://github.com/Dimas-Saputra-Me/101-ways-to-print-helloworld/blob/master/template.js)
 2. Place your file inside [./code/(your-file-name).js](https://github.com/Dimas-Saputra-Me/101-ways-to-print-helloworld/tree/master/code)
 3. Make a pull-request (I don't need to explain clone push pull because you know it, ok good)
