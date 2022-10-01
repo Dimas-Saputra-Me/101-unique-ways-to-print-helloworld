@@ -1,0 +1,20 @@
+{
+  "name": "101-ways-to-print-helloworld",
+  "version": "1.0.0",
+  "description": "101-ways-to-print-helloworld",
+  "main": "index.js",
+  "scripts": {
+    "helloworld": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimas-Saputra-Me/101-ways-to-print-helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimas-Saputra-Me/101-ways-to-print-helloworld/issues"
+  },
+  "homepage": "https://github.com/Dimas-Saputra-Me/101-ways-to-print-helloworld#readme",
+  "type": "module"
+}
