@@ -11,4 +11,5 @@ Guidelines
 - Do not create another branch, only use master/main branch
 - Make sure you use the right template and put it in the right folder
 - Make sure there is not the same file method or way to print "Hello World!"
+- Make sure you only add the supported programming language (Currently only javascript)
 - You can use any file name format for your javascript file
