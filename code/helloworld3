@@ -1,0 +1,7 @@
+// TEMPLATE
+// Title  : [101 ways to print hello world] 
+// Author : [dani3lbp](https://github.com/dani3lbp)
+function print(){
+    console.log("Hello World!")
+}
+print(); // Don't forget to execute the function
