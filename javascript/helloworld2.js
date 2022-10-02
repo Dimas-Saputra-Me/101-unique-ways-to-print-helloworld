@@ -1,6 +1,6 @@
 // TEMPLATE
 // Title  : [ASCII Brute Force Hello World] 
-// Author: [Dimas-Saputra-Me](https://github.com/Dimas-Saputra-Me)
+// Contributor: [Dimas-Saputra-Me](https://github.com/Dimas-Saputra-Me)
 function print(){
     let text = new Array(12).fill(0);
     let textValidation = "Hello World!";
