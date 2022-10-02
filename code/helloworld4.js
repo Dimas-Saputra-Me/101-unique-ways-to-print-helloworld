@@ -1,7 +1,6 @@
-// TEMPLATE
 // Title  : [Basic Hello World!] 
 // Author: [danielbpp](https://github.com/danielbpp)
 function print(){
-    console.log("Hello World!")
+    document.write('Hello World!');
 }
-print(); // Don't forget to execute the function
+print();
