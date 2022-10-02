@@ -6,6 +6,6 @@
 
     echo "Hello World";
     print_r("Hello World");
-    $stringVar = 'hello world';
+    $stringVar = 'Hello World';
     var_dump($stringVar);
 ?>
