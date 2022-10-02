@@ -1,4 +1,7 @@
 // Title  : [Hello World!] 
 // Author: [danielbpp](https://github.com/danielbpp)
     
-alert("Hello, World!");
+function print(){
+    alert("Hello, World!");
+}
+print();
