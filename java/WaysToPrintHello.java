@@ -5,7 +5,7 @@ Different ways to Print Hello World using java
 public class WaysToPrintHello {
     WaysToPrintHello()
     {
-        System.out.println("Hello World");
+        System.out.println("Hello World!");
     }
 
     public static void main(String[] args) {
