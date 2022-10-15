@@ -4,5 +4,5 @@
 #include <stdio.h>
 int main()
 {
-   switch (printf("Hello World "));
+   switch (printf("Hello World!"));
 }
