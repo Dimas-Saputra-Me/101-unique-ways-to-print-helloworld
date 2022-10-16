@@ -1,4 +1,4 @@
-// Title  : [another way to print hello world] 
+// Title  : [Call hello world using void with argument]
 // Contributor: [Madhur Jatiya](https://github.com/Madhur-Jatiya  ------ https://madhurmoms.me/)
 public class WaysToPrintHello {
     WaysToPrintHello(String s)

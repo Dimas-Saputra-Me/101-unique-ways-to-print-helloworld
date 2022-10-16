@@ -1,4 +1,4 @@
-// Title  : [Call hello world using another method]
+// Title  : [Call hello world using void]
 // Contributor: [Madhur Jatiya](https://github.com/Madhur-Jatiya  ------ https://madhurmoms.me/)
 
 public class WaysToPrintHello {
