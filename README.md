@@ -1,8 +1,7 @@
 # 101-ways-to-print-helloworld
-> 101 ways to print "Hello World!" in various programming language with various method
+> 101 ways to print "Hello World!" in various programming language with unique methods
 
-For example in javascript we can do either ```console.log("Hello World!");```
-or ```alert("Hello World!");``` and etc. You can look for more examples in each programming language folder.
+For example in javascript we can do either ```console.log("Hello World!");```, ```alert("Hello World!");```, Using morse code, using ASCII, etc. You can look for more examples in each programming language folder.
 ## Repository-Information
 ```sh
 # Run the script
@@ -12,7 +11,7 @@ npm run helloworld
 ## Contribute-Guidelines
 If you want to contribute please read the guidelines in [CONTRIBUTING.MD](https://github.com/Dimas-Saputra-Me/101-ways-to-print-helloworld/blob/master/CONTRIBUTING.MD)
 
-## Hacktoberfest-2022
+## Hacktoberfest-2023
 Hacktobefest PRs are welcome, if you want hacktoberfest-accepted label please kindly inform it on pull-request description and don't forget to read the [contribution guidelines](https://github.com/Dimas-Saputra-Me/101-ways-to-print-helloworld/blob/master/CONTRIBUTING.MD).
 
 ## Credits
