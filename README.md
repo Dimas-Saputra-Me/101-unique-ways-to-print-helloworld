@@ -1,5 +1,5 @@
 # 101-ways-to-print-helloworld
-> 101 ways to print "Hello World!" in various programming language with unique methods
+> 101 ways to print "Hello World!" in unique ways
 
 For example in javascript we can do either ```console.log("Hello World!");```, ```alert("Hello World!");```, Using morse code, using ASCII, etc. You can look for more examples in each programming language folder.
 ## Repository-Information
